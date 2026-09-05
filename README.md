@@ -1,4 +1,4 @@
-## Yo! I'm Lucas 👋
+## Yo! I'm Lucas
 
 Software & AI Engineer spittin' code from Milan.
 
